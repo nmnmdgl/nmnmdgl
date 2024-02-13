@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on Robotics and WebDev projects.
 - 📫 You can reach me via :-
--     Insta : @nmnmdgl;
 -     Mail : nmnmdgl@gmail.com
 - 😄 Pronouns: he/him
 
