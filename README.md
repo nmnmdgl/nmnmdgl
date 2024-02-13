@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Robotics and WebDev projects.
 - 📫 You can reach me via :-
 -     Insta : @nmnmdgl;
--     Mail : nmnmdgl@gmail.com .
+-     Mail : nmnmdgl@gmail.com
 - 😄 Pronouns: he/him
 
 
