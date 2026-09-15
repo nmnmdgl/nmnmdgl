@@ -17,7 +17,6 @@ I have also worked on research problems involving machine learning and cryptogra
 * Research experience in Machine Learning and Cryptography
 * Published research in Quantum Computing
 * 300+ LeetCode problems solved
-* Conducted 10+ AI and Prompt Engineering sessions for academic and corporate audiences
 * Interested in building reliable and scalable AI applications
 
 ---
@@ -27,7 +26,7 @@ I have also worked on research problems involving machine learning and cryptogra
 ### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,sql" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript" />
 </p>
 
 **Python • JavaScript • TypeScript • SQL**
@@ -45,7 +44,7 @@ Machine Learning • Deep Learning • NLP • Transformers • Computer Vision 
 ### Generative AI
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=huggingface" />
 </p>
 
 **LangChain • LangGraph • Hugging Face • Gemini • Groq**
@@ -54,10 +53,6 @@ LLMs • RAG • Prompt Engineering • AI Agents • Agentic Workflows • Embe
 
 ### RAG & Vector Databases
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
 **Qdrant • ChromaDB • FAISS**
 
 Semantic Search • Document Chunking • Embeddings • Retrieval Pipelines • Citation-based RAG • Multi-document RAG
@@ -65,7 +60,7 @@ Semantic Search • Document Chunking • Embeddings • Retrieval Pipelines •
 ### Backend & Web Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,nodejs,streamlit" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,nodejs" />
 </p>
 
 **FastAPI • Next.js • React • Node.js • Streamlit**
@@ -80,7 +75,7 @@ REST APIs • Authentication • Async APIs • Microservices • Backend Archit
 
 **PostgreSQL • Redis • Docker • Git • GitHub • Qdrant • ChromaDB**
 
-### Cloud & Tools
+### Cloud & Development Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=gcp,vercel,cloudflare,postman,vscode" />
@@ -91,8 +86,6 @@ REST APIs • Authentication • Async APIs • Microservices • Backend Archit
 ---
 
 # Featured Projects
-
----
 
 ## 3GPP RAG Chatbot
 
@@ -230,9 +223,15 @@ Working on AI and software engineering problems involving modern AI technologies
 
 Worked on Machine Learning in Cryptography and explored neural-network-based approaches to cryptographic systems.
 
-### Vice President, Technical Department — Career Development Centre
+---
 
-Worked on technical initiatives and supported the organization of campus placement drives and recruitment activities.
+# AI & Prompt Engineering
+
+I have conducted 10+ Prompt Engineering and AI sessions along with Shreyansh for university and corporate audiences.
+
+The sessions covered practical applications of Generative AI, prompt engineering and AI-assisted workflows.
+
+These sessions have reached 200+ corporate employees across organizations including Motherson and Hettich, along with students from Delhi University colleges.
 
 ---
 
@@ -257,12 +256,23 @@ My problem-solving practice includes:
 # GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nmnmdgl&show_icons=true&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmnmdgl&layout=compact&hide_border=true&langs_count=8" height="170"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=nmnmdgl&show_icons=true&hide_border=true&count_private=true"
+    height="170"
+    alt="Naman's GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmnmdgl&layout=compact&hide_border=true&langs_count=8"
+    height="170"
+    alt="Naman's Most Used Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nmnmdgl&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=nmnmdgl&hide_border=true"
+    alt="Naman's GitHub Streak"
+  />
 </p>
 
 ---
@@ -270,7 +280,31 @@ My problem-solving practice includes:
 # Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nmnmdgl&hide_border=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nmnmdgl&theme=github-compact&hide_border=true&area=true"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
+---
+
+# Contribution Graph
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/nmnmdgl/nmnmdgl/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/nmnmdgl/nmnmdgl/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/nmnmdgl/nmnmdgl/output/github-snake.svg"
+    />
+  </picture>
 </p>
 
 ---
@@ -279,13 +313,13 @@ My problem-solving practice includes:
 
 <p align="center">
   <a href="mailto:nmnmdgl@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/naman-mudgal">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/nmnmdgl">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
