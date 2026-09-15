@@ -247,21 +247,14 @@ My problem-solving practice includes:
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=nmnmdgl&show_icons=true&hide_border=true&count_private=true"
+    src="./assets/stats.svg"
     height="170"
     alt="Naman's GitHub Statistics"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmnmdgl&layout=compact&hide_border=true&langs_count=8"
+    src="./assets/languages.svg"
     height="170"
     alt="Naman's Most Used Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=nmnmdgl&hide_border=true"
-    alt="Naman's GitHub Streak"
   />
 </p>
 
@@ -271,8 +264,8 @@ My problem-solving practice includes:
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=nmnmdgl&theme=github-compact&hide_border=true&area=true"
-    alt="GitHub Activity Graph"
+    src="./assets/activity.svg"
+    alt="Naman's GitHub Activity Graph"
   />
 </p>
 
