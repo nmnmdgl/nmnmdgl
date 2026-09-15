@@ -3,7 +3,6 @@ name: Update GitHub Profile Stats
 on:
   schedule:
     - cron: "17 3 * * *"
-
   workflow_dispatch:
 
 permissions:
@@ -17,15 +16,15 @@ jobs:
       - name: Checkout profile repository
         uses: actions/checkout@v4
 
-      - name: Generate GitHub profile cards
+      - name: Generate GitHub stats
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&include_all_commits=true
           path: assets/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}
 
-      - name: Generate top languages card
+      - name: Generate top languages
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
@@ -33,15 +32,7 @@ jobs:
           path: assets/languages.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate activity graph
-        uses: maurodesouza/github-readme-activity-graph-action@v1
-        with:
-          username: ${{ github.repository_owner }}
-          options: theme=github-compact&hide_border=true&area=true
-          output_path: assets/activity.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Commit generated cards
+      - name: Commit updated cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
