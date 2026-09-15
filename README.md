@@ -2,24 +2,21 @@
 
 ### AI/ML Engineer | Generative AI | RAG | Backend Development
 
-I am a Computer Science student specializing in Artificial Intelligence and Machine Learning, with a strong interest in building practical AI systems and production-oriented software.
+AI/ML Engineer building with Generative AI, RAG, AI Agents, and backend systems. I enjoy turning ideas and research into practical, reliable software.
 
-My work spans Generative AI, Retrieval-Augmented Generation, AI agents, machine learning, backend development, and applied research. I enjoy taking ideas from an initial concept through architecture and implementation to a working product.
-
-I have also worked on research problems involving machine learning and cryptography, along with projects involving LLMs, vector databases, APIs, and cloud deployment.
-
----
+Currently focused on building AI applications, intelligent workflows, and production-oriented backend systems, while continuing to explore the intersection of machine learning, software engineering, and research.
 
 ## About Me
 
-* B.Tech in Computer Science and Engineering, specializing in Artificial Intelligence and Machine Learning
-* Focused on Generative AI, RAG, AI Agents, Machine Learning and Backend Engineering
-* Research experience in Machine Learning and Cryptography
-* Published research in Quantum Computing
-* 300+ LeetCode problems solved
-* Interested in building reliable and scalable AI applications
+I am a Computer Science student specializing in Artificial Intelligence and Machine Learning. My work has taken me across machine learning, deep learning, Generative AI, RAG, AI agents, backend engineering, and applied research.
 
----
+I enjoy working on problems where there is room to experiment, build, and improve. From developing document intelligence systems to designing backend services and exploring ML applications in cryptography, I like understanding how things work beneath the surface rather than just using them.
+
+- B.Tech in Computer Science and Engineering, specializing in Artificial Intelligence and Machine Learning
+- Focused on Generative AI, RAG, AI Agents, Machine Learning and Backend Engineering
+- Research experience in Machine Learning and Cryptography
+- Published research in Quantum Computing
+- 300+ LeetCode problems solved
 
 ## Tech Stack
 
@@ -29,7 +26,7 @@ I have also worked on research problems involving machine learning and cryptogra
   <img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript" />
 </p>
 
-**Python • JavaScript • TypeScript • SQL**
+Python • C++ • JavaScript • TypeScript • SQL
 
 ### AI / Machine Learning
 
@@ -37,7 +34,7 @@ I have also worked on research problems involving machine learning and cryptogra
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
 </p>
 
-**PyTorch • TensorFlow • Keras • Scikit-learn • NumPy • Pandas • Matplotlib**
+PyTorch • TensorFlow • Keras • Scikit-learn • NumPy • Pandas • Matplotlib
 
 Machine Learning • Deep Learning • NLP • Transformers • Computer Vision • Model Evaluation
 
@@ -47,13 +44,13 @@ Machine Learning • Deep Learning • NLP • Transformers • Computer Vision 
   <img src="https://skillicons.dev/icons?i=huggingface" />
 </p>
 
-**LangChain • LangGraph • Hugging Face • Gemini • Groq**
+LangChain • LangGraph • Hugging Face • Gemini • Groq
 
 LLMs • RAG • Prompt Engineering • AI Agents • Agentic Workflows • Embeddings • Vector Search • LLM Evaluation
 
 ### RAG & Vector Databases
 
-**Qdrant • ChromaDB • FAISS**
+Qdrant • ChromaDB • FAISS
 
 Semantic Search • Document Chunking • Embeddings • Retrieval Pipelines • Citation-based RAG • Multi-document RAG
 
@@ -63,157 +60,88 @@ Semantic Search • Document Chunking • Embeddings • Retrieval Pipelines •
   <img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,nodejs" />
 </p>
 
-**FastAPI • Next.js • React • Node.js • Streamlit**
+FastAPI • Next.js • React • Node.js • Streamlit
 
 REST APIs • Authentication • Async APIs • Microservices • Backend Architecture
 
-### Databases & Infrastructure
+### Databases, Infrastructure & Cloud
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,git,github,gcp,vercel,cloudflare,postman,vscode" />
 </p>
 
-**PostgreSQL • Redis • Docker • Git • GitHub • Qdrant • ChromaDB**
+PostgreSQL • Redis • Docker • Git • GitHub • Google Cloud • Vertex AI • Vercel • Cloudflare • Cloudinary • Postman
 
-### Cloud & Development Tools
+## What I've Been Building
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=gcp,vercel,cloudflare,postman,vscode" />
-</p>
+### 3GPP RAG Chatbot
 
-**Google Cloud • Vertex AI • Vercel • Cloudflare • Cloudinary • Postman • VS Code**
+A Retrieval-Augmented Generation system designed to answer questions from 3GPP technical specifications while keeping hallucinations as low as possible.
 
----
+The system works with TR 21.905, TS 23.501, TS 23.502 and TS 38.300, using document processing, BGE embeddings, Qdrant and an LLM-based retrieval pipeline.
 
-# Featured Projects
-
-## 3GPP RAG Chatbot
-
-A Retrieval-Augmented Generation system designed to answer questions from 3GPP technical specifications while minimizing hallucinations.
-
-The system works with documents including TR 21.905, TS 23.501, TS 23.502 and TS 38.300.
-
-### Key Areas
-
-* Document ingestion and chunking
-* BGE embeddings
-* Qdrant vector database
-* Semantic retrieval
-* LLM-based question answering
-* Source-aware responses
-* FastAPI backend
-* Production deployment architecture
+The project was built with a strong focus on reliable retrieval and source-aware responses rather than simply generating answers from an LLM.
 
 **Technologies:** Python • FastAPI • Qdrant • RAG • BGE Embeddings • LLMs • Groq • Vercel • Render
 
 [View Repository](https://github.com/nmnmdgl/3gpp-rag)
 
----
-
-## AutoStream
+### AutoStream
 
 An AI-powered sales automation application built around agentic workflows.
 
-The project uses LangGraph to orchestrate AI workflows and combines retrieval, lead management and content-related automation.
-
-### Key Areas
-
-* LangGraph agent workflows
-* LangChain
-* ChromaDB-based RAG
-* Lead management
-* CSV data storage
-* Gemini integration
-* Streamlit interface
+AutoStream uses LangGraph to orchestrate AI workflows and combines retrieval, lead management and content-related automation into a single application.
 
 **Technologies:** Python • LangGraph • LangChain • Gemini • ChromaDB • Streamlit
 
 [View Repository](https://github.com/nmnmdgl/AutoStream)
 
----
+### DocQuery
 
-## DocQuery
+A multi-document RAG application for interacting with PDF documents through natural language.
 
-A multi-document RAG application that allows users to upload and interact with PDF documents through natural language.
-
-The application maintains conversational context and provides source references for retrieved information.
-
-### Key Areas
-
-* Multi-PDF processing
-* Semantic retrieval
-* Vector search
-* Conversational memory
-* Source and page-level citations
-* Streamlit interface
+It supports multiple document uploads, semantic retrieval, conversational memory and source-level citations, making it possible to trace responses back to the underlying documents.
 
 **Technologies:** Python • RAG • LLMs • Vector Databases • Streamlit
 
 [View Repository](https://github.com/nmnmdgl/DocQuery)
 
----
-
-## PathGenie
+### PathGenie
 
 An AI-powered career guidance application that generates personalized career paths and learning roadmaps based on a user's education, interests and skills.
 
-### Key Areas
-
-* Career path generation
-* Personalized learning roadmaps
-* LLM-powered recommendations
-* Vector search
-* Generative AI integration
+The idea was to make career exploration more structured by combining user information with Generative AI to produce actionable paths rather than generic career suggestions.
 
 **Technologies:** Python • Streamlit • LangChain • Gemini • Vertex AI • FAISS
 
-[Live Application](https://pathgenieai.streamlit.app/)
+[Live Application](https://pathgenieai.streamlit.app/)  
 [View Repository](https://github.com/nmnmdgl/PathGenie)
 
----
-
-## AI Portfolio & NIFTY50 Allocator
+### AI Portfolio & NIFTY50 Allocator
 
 An AI-assisted portfolio optimization and backtesting application focused on Indian equities.
 
-The project combines traditional portfolio optimization techniques with machine learning and explainability methods.
-
-### Key Areas
-
-* Modern Portfolio Theory
-* Risk Parity
-* LSTM-based forecasting
-* SHAP explainability
-* Historical backtesting
-* Benchmark comparison
-* Sector-aware allocation
-* Risk and return analysis
+The project combines traditional portfolio optimization methods such as Modern Portfolio Theory and Risk Parity with LSTM forecasting and SHAP-based explainability.
 
 **Technologies:** Python • Streamlit • yFinance • PyPortfolioOpt • LSTM • SHAP • Pandas • NumPy • Gemini
 
----
+## Research
 
-# Research
+My research work has mainly explored the intersection of machine learning, deep learning and cryptography.
 
-My research interests include the application of machine learning and deep learning to cryptography and emerging computing technologies.
+During my internship at DRDO SAG, I worked on Machine Learning in Cryptography, including neural cryptography based on the Alice, Bob and Eve framework and experiments involving adversarial training and cryptographic loss functions.
 
-### Machine Learning in Cryptography
+I have also explored deep-learning approaches involving AES, image classification and autoencoder architectures.
 
-During my internship at DRDO SAG, I worked on research involving machine learning approaches to cryptography.
-
-My work included implementing and experimenting with neural cryptography architectures based on the Alice, Bob and Eve framework, along with adversarial training and cryptographic loss functions.
-
-I have also explored deep-learning-based approaches involving AES, image classification and autoencoder architectures.
+My broader research interests include AI for cybersecurity, neural cryptography, emerging computing technologies and practical applications of machine learning.
 
 ### Publication
 
-I have published research related to Quantum Computing.
+Published research related to Quantum Computing.
 
 **DOI:** 10.33889/PMSL.2025.4.2.020
 
----
-
-# Experience
+## Experience
 
 ### Associate Consultant Intern — SMARRTIF AI
 
@@ -223,27 +151,14 @@ Working on AI and software engineering problems involving modern AI technologies
 
 Worked on Machine Learning in Cryptography and explored neural-network-based approaches to cryptographic systems.
 
----
 
-# Problem Solving
+## Problem Solving
 
-I actively practice Data Structures and Algorithms and have solved 300+ problems on LeetCode.
+I regularly practice Data Structures and Algorithms and have solved 300+ problems on LeetCode.
 
-My problem-solving practice includes:
+My problem-solving practice covers arrays, strings, hashing, linked lists, trees, graphs, dynamic programming, searching, sorting, greedy algorithms, recursion and backtracking.
 
-* Data Structures and Algorithms
-* Arrays and Strings
-* Hashing
-* Linked Lists
-* Trees and Graphs
-* Dynamic Programming
-* Searching and Sorting
-* Greedy Algorithms
-* Recursion and Backtracking
-
----
-
-# GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img
@@ -258,9 +173,14 @@ My problem-solving practice includes:
   />
 </p>
 
----
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=nmnmdgl&hide_border=true"
+    alt="Naman's GitHub Streak"
+  />
+</p>
 
-# Contribution Activity
+## Contribution Activity
 
 <p align="center">
   <img
@@ -269,9 +189,7 @@ My problem-solving practice includes:
   />
 </p>
 
----
-
-# Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <picture>
@@ -284,15 +202,13 @@ My problem-solving practice includes:
       srcset="https://raw.githubusercontent.com/nmnmdgl/nmnmdgl/output/github-snake.svg"
     />
     <img
-      alt="GitHub Contribution Snake"
       src="https://raw.githubusercontent.com/nmnmdgl/nmnmdgl/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
     />
   </picture>
 </p>
 
----
-
-# Connect With Me
+## Connect
 
 <p align="center">
   <a href="mailto:nmnmdgl@gmail.com">
@@ -305,8 +221,6 @@ My problem-solving practice includes:
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
----
 
 <p align="center">
   <i>Building practical AI systems and exploring the intersection of AI, software engineering and research.</i>
