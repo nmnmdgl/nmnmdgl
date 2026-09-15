@@ -12,56 +12,95 @@ I have also worked on research problems involving machine learning and cryptogra
 
 ## About Me
 
-* B.Tech in Computer Science and Engineering, specialization in Artificial Intelligence and Machine Learning
+* B.Tech in Computer Science and Engineering, specializing in Artificial Intelligence and Machine Learning
 * Focused on Generative AI, RAG, AI Agents, Machine Learning and Backend Engineering
 * Research experience in Machine Learning and Cryptography
 * Published research in Quantum Computing
 * 300+ LeetCode problems solved
-* Experience conducting AI and Prompt Engineering sessions for academic and corporate audiences
+* Conducted 10+ AI and Prompt Engineering sessions for academic and corporate audiences
 * Interested in building reliable and scalable AI applications
 
 ---
 
-## Technical Skills
+## Tech Stack
 
-**Languages**
+### Languages
 
-Python, C++, JavaScript, SQL
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,sql" />
+</p>
 
-**AI / Machine Learning**
+**Python • JavaScript • TypeScript • SQL**
 
-PyTorch, TensorFlow, Keras, Scikit-learn, NumPy, Pandas, Matplotlib
+### AI / Machine Learning
 
-Machine Learning, Deep Learning, NLP, Transformers, Computer Vision, Model Evaluation
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+</p>
 
-**Generative AI**
+**PyTorch • TensorFlow • Keras • Scikit-learn • NumPy • Pandas • Matplotlib**
 
-LLMs, RAG, Prompt Engineering, AI Agents, Agentic Workflows, Embeddings, Vector Search, LLM Evaluation
+Machine Learning • Deep Learning • NLP • Transformers • Computer Vision • Model Evaluation
 
-**Frameworks & Libraries**
+### Generative AI
 
-LangChain, LangGraph, FastAPI, Streamlit, Next.js, React
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-**Databases & Infrastructure**
+**LangChain • LangGraph • Hugging Face • Gemini • Groq**
 
-PostgreSQL, Qdrant, ChromaDB, FAISS, Redis, Docker, Git, GitHub
+LLMs • RAG • Prompt Engineering • AI Agents • Agentic Workflows • Embeddings • Vector Search • LLM Evaluation
 
-**Cloud & Services**
+### RAG & Vector Databases
 
-Google Cloud, Vertex AI, Gemini, Groq, Cloudinary, Cloudflare R2
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+**Qdrant • ChromaDB • FAISS**
+
+Semantic Search • Document Chunking • Embeddings • Retrieval Pipelines • Citation-based RAG • Multi-document RAG
+
+### Backend & Web Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,nodejs,streamlit" />
+</p>
+
+**FastAPI • Next.js • React • Node.js • Streamlit**
+
+REST APIs • Authentication • Async APIs • Microservices • Backend Architecture
+
+### Databases & Infrastructure
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,git,github" />
+</p>
+
+**PostgreSQL • Redis • Docker • Git • GitHub • Qdrant • ChromaDB**
+
+### Cloud & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=gcp,vercel,cloudflare,postman,vscode" />
+</p>
+
+**Google Cloud • Vertex AI • Vercel • Cloudflare • Cloudinary • Postman • VS Code**
 
 ---
 
-## Featured Projects
+# Featured Projects
 
+---
 
-### 3GPP RAG Chatbot
+## 3GPP RAG Chatbot
 
 A Retrieval-Augmented Generation system designed to answer questions from 3GPP technical specifications while minimizing hallucinations.
 
 The system works with documents including TR 21.905, TS 23.501, TS 23.502 and TS 38.300.
 
-**Key areas:**
+### Key Areas
 
 * Document ingestion and chunking
 * BGE embeddings
@@ -72,19 +111,19 @@ The system works with documents including TR 21.905, TS 23.501, TS 23.502 and TS
 * FastAPI backend
 * Production deployment architecture
 
-**Technologies:** Python, FastAPI, Qdrant, RAG, BGE Embeddings, LLMs, Groq, Vercel, Render
+**Technologies:** Python • FastAPI • Qdrant • RAG • BGE Embeddings • LLMs • Groq • Vercel • Render
 
 [View Repository](https://github.com/nmnmdgl/3gpp-rag)
 
 ---
 
-### AutoStream
+## AutoStream
 
 An AI-powered sales automation application built around agentic workflows.
 
 The project uses LangGraph to orchestrate AI workflows and combines retrieval, lead management and content-related automation.
 
-**Key areas:**
+### Key Areas
 
 * LangGraph agent workflows
 * LangChain
@@ -94,19 +133,19 @@ The project uses LangGraph to orchestrate AI workflows and combines retrieval, l
 * Gemini integration
 * Streamlit interface
 
-**Technologies:** Python, LangGraph, LangChain, Gemini, ChromaDB, Streamlit
+**Technologies:** Python • LangGraph • LangChain • Gemini • ChromaDB • Streamlit
 
 [View Repository](https://github.com/nmnmdgl/AutoStream)
 
 ---
 
-### DocQuery
+## DocQuery
 
 A multi-document RAG application that allows users to upload and interact with PDF documents through natural language.
 
 The application maintains conversational context and provides source references for retrieved information.
 
-**Key areas:**
+### Key Areas
 
 * Multi-PDF processing
 * Semantic retrieval
@@ -115,38 +154,38 @@ The application maintains conversational context and provides source references 
 * Source and page-level citations
 * Streamlit interface
 
-**Technologies:** Python, RAG, LLMs, Vector Databases, Streamlit
+**Technologies:** Python • RAG • LLMs • Vector Databases • Streamlit
 
 [View Repository](https://github.com/nmnmdgl/DocQuery)
 
 ---
 
-### PathGenie
+## PathGenie
 
 An AI-powered career guidance application that generates personalized career paths and learning roadmaps based on a user's education, interests and skills.
 
-**Key areas:**
+### Key Areas
 
-* Career-path generation
+* Career path generation
 * Personalized learning roadmaps
 * LLM-powered recommendations
 * Vector search
 * Generative AI integration
 
-**Technologies:** Python, Streamlit, LangChain, Gemini, Vertex AI, FAISS
+**Technologies:** Python • Streamlit • LangChain • Gemini • Vertex AI • FAISS
 
 [Live Application](https://pathgenieai.streamlit.app/)
 [View Repository](https://github.com/nmnmdgl/PathGenie)
 
 ---
 
-### AI Portfolio & NIFTY50 Allocator
+## AI Portfolio & NIFTY50 Allocator
 
 An AI-assisted portfolio optimization and backtesting application focused on Indian equities.
 
 The project combines traditional portfolio optimization techniques with machine learning and explainability methods.
 
-**Key areas:**
+### Key Areas
 
 * Modern Portfolio Theory
 * Risk Parity
@@ -157,11 +196,11 @@ The project combines traditional portfolio optimization techniques with machine 
 * Sector-aware allocation
 * Risk and return analysis
 
-**Technologies:** Python, Streamlit, yFinance, PyPortfolioOpt, LSTM, SHAP, Pandas, NumPy, Gemini
+**Technologies:** Python • Streamlit • yFinance • PyPortfolioOpt • LSTM • SHAP • Pandas • NumPy • Gemini
 
 ---
 
-## Research
+# Research
 
 My research interests include the application of machine learning and deep learning to cryptography and emerging computing technologies.
 
@@ -181,7 +220,7 @@ I have published research related to Quantum Computing.
 
 ---
 
-## Experience
+# Experience
 
 ### Associate Consultant Intern — SMARRTIF AI
 
@@ -191,14 +230,19 @@ Working on AI and software engineering problems involving modern AI technologies
 
 Worked on Machine Learning in Cryptography and explored neural-network-based approaches to cryptographic systems.
 
+### Vice President, Technical Department — Career Development Centre
+
+Worked on technical initiatives and supported the organization of campus placement drives and recruitment activities.
+
 ---
 
-## Problem Solving
+# Problem Solving
 
 I actively practice Data Structures and Algorithms and have solved 300+ problems on LeetCode.
 
-My problem-solving practice focuses primarily on:
+My problem-solving practice includes:
 
+* Data Structures and Algorithms
 * Arrays and Strings
 * Hashing
 * Linked Lists
@@ -210,7 +254,7 @@ My problem-solving practice focuses primarily on:
 
 ---
 
-## GitHub Statistics
+# GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nmnmdgl&show_icons=true&hide_border=true&count_private=true" height="170"/>
@@ -223,26 +267,30 @@ My problem-solving practice focuses primarily on:
 
 ---
 
-## Let's Connect
+# Contribution Activity
 
-**Email:** [nmnmdgl@gmail.com](mailto:nmnmdgl@gmail.com)
-
-**LinkedIn:** [linkedin.com/in/naman-mudgal](https://www.linkedin.com/in/naman-mudgal)
-
-**GitHub:** [github.com/nmnmdgl](https://github.com/nmnmdgl)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nmnmdgl&hide_border=true" />
+</p>
 
 ---
 
-## Current Focus
+# Connect With Me
 
-I am currently focused on building stronger expertise in Generative AI and AI Engineering, particularly around:
+<p align="center">
+  <a href="mailto:nmnmdgl@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/naman-mudgal">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/nmnmdgl">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-* Retrieval-Augmented Generation
-* LLM applications
-* AI Agents and Agentic Systems
-* Vector Databases and Retrieval
-* AI evaluation and reliability
-* Scalable backend architectures
-* Applied Machine Learning research
+---
 
-I am always interested in working on projects where AI can be applied to solve meaningful and practical problems.
+<p align="center">
+  <i>Building practical AI systems and exploring the intersection of AI, software engineering and research.</i>
+</p>
