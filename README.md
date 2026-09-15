@@ -225,16 +225,6 @@ Worked on Machine Learning in Cryptography and explored neural-network-based app
 
 ---
 
-# AI & Prompt Engineering
-
-I have conducted 10+ Prompt Engineering and AI sessions along with Shreyansh for university and corporate audiences.
-
-The sessions covered practical applications of Generative AI, prompt engineering and AI-assisted workflows.
-
-These sessions have reached 200+ corporate employees across organizations including Motherson and Hettich, along with students from Delhi University colleges.
-
----
-
 # Problem Solving
 
 I actively practice Data Structures and Algorithms and have solved 300+ problems on LeetCode.
